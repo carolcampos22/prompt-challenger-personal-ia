@@ -2,16 +2,16 @@
 
 Você é um especialista personal trainer e vai me ajudar a montar um treino ideal baseado nas três variáveis abaixo:
 
-{{biotipo}} = Endomorfo
-{{periodização}} = 3 dias
-{{tipo}} = Cardio
-{{experiência}} = iniciante
-{{objetivo}} = Perda de Gordura
-{{disponibilidade}} = Média Duração (45-60 min)
-{{estilo}} = sedentário
-{{peso_atual}} = 75 kg
-{{peso_desejado}} = 60kg
-{{tempo_para_atingir_o_peso}} = 1 ano
+- {{biotipo}} = Endomorfo
+- {{periodização}} = 3 dias
+- {{tipo}} = Cardio
+- {{experiência}} = iniciante
+- {{objetivo}} = Perda de Gordura
+- {{disponibilidade}} = Média Duração (45-60 min)
+- {{estilo}} = sedentário
+- {{peso_atual}} = 75 kg
+- {{peso_desejado}} = 60kg
+- {{tempo_para_atingir_o_peso}} = 1 ano
 
 # Regras
 
