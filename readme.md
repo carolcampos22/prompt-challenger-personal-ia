@@ -120,4 +120,63 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+## 🎯 Prompt de Resposta Proposto - Exemplo
+Com os valores de variáveis a seguir:
+
+
+- Biotipo: Endomorfo
+- Periodização: 3 dias (Treino ABC)
+- Tipo: Cardio
+- Experiência: Iniciante
+- Objetivo: Perda de Gordura
+- Disponibilidade: Média Duração (45-60 min)
+- Estilo: Sedentário
+- Peso Atual: 75 kg
+- Peso Desejado: 60 kg
+- Tempo para Atingir o Peso: 1 ano
+
+foi proposto o seguinte treino:
+
+# Treino ABC (Cardio)
+
+## Dia A: Cardio de Intensidade Moderada
+
+- Aquecimento: Caminhada rápida (10 min)
+- Treino Principal:
+- Corrida leve (20 min) ou elíptico (20 min)
+- Ciclismo moderado (20 min)
+- Resfriamento: Caminhada leve (10 min)
+- Alongamento: Alongamento estático para membros inferiores e superiores (5 min)
+
+## Dia B: Cardio com Enfoque em HIIT Leve
+
+- Aquecimento: Caminhada rápida (10 min)
+- Treino Principal:
+- 5 ciclos de 1 min de corrida rápida alternado com 2 min de caminhada leve (25 min no total)
+- Resfriamento: Caminhada leve (10 min)
+- Alongamento: Alongamento estático para membros inferiores e superiores (5 min)
+
+## Dia C: Cardio de Baixa Intensidade com Movimentos Funcionais
+
+- Aquecimento: Caminhada rápida (10 min)
+- Treino Principal:
+- Caminhada inclinada (20 min)
+- Exercícios funcionais: Polichinelo (3x15), Step-up em banco (3x15)
+- Resfriamento: Caminhada leve (10 min)
+- Alongamento: Alongamento estático para membros inferiores e superiores (5 min)
+
+## Dicas de Alimentação
+- Controle de Porções: Divida suas refeições em 5-6 pequenas porções ao longo do dia para manter o metabolismo ativo.
+- Priorize Proteínas Magras: Consuma frango, peixe, ovos e leguminosas para ajudar na manutenção da massa magra enquanto perde gordura.
+- Fibras e Vegetais: Aumente a ingestão de vegetais e alimentos ricos em fibras para melhorar a saciedade e regular a digestão.
+- Redução de Carboidratos Simples: Evite açúcares refinados e alimentos ultraprocessados. Prefira carboidratos complexos como batata-doce, arroz integral e aveia.
+
+## Quantidade Mínima Diária de Ingestão de Líquidos
+Para manter-se hidratada, especialmente durante o processo de perda de peso e com a prática de exercícios, recomenda-se uma ingestão mínima de 2,5 a 3 litros de água por dia. Beba água antes, durante e após os treinos.
+
+## Considerações Finais
+- Como iniciante, priorize a correta execução dos movimentos e mantenha um ritmo confortável. O objetivo é criar uma base sólida e evitar lesões.
+- A consistência será fundamental para atingir seu peso desejado em um ano. Combine o treino com uma alimentação balanceada e evite pular refeições.
+- Integre mais atividades físicas no dia a dia para reduzir o sedentarismo, como caminhar mais e usar escadas em vez de elevadores.
+
+Esse plano equilibrado ajudará a atingir seus objetivos de perda de gordura de forma sustentável e saudável.
